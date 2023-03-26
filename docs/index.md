@@ -14,8 +14,12 @@ article: false
   avatar: https://developer.mozilla.org/favicon.ico
   link: https://developer.mozilla.org/zh-CN/
 - name: W3school - HTML
-  desc: 从基础到高级的 HTTML 教程
+  desc: W3school 在线教程
   avatar: https://www.w3school.com.cn/ui2019/logo-180.png
-  link: https://www.w3school.com.cn/html/index.asp
+  link: https://www.w3school.com.cn/index.html
+- name: W3Cschool - HTML
+  desc: 编程狮，随时随地学编程
+  avatar: https://7n.w3cschool.cn/statics/images/favicon.ico
+  link: https://www.w3cschool.cn/
 ```
 :::
