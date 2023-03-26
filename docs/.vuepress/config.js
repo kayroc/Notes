@@ -164,6 +164,7 @@ module.exports = {
       }
     ],
 
-    ['reading-progress']
+    ['reading-progress'],
+    ['vuepress-plugin-mermaidjs']
   ]
 }
