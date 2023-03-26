@@ -1,13 +1,13 @@
 const nav = require('./config/nav.js')
 
 module.exports = {
-  title: '个人知识库',
-  description: '个人知识库', // 描述,以 <meta> 标签渲染到页面html中
+  title: '编程知识库',
+  description: '编程知识库', // 描述,以 <meta> 标签渲染到页面html中
   base: '/notes/',
   port: 8080,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'keywords', content: '个人知识库' }],
+    ['meta', { name: 'keywords', content: '编程知识库' }],
     ['meta', { name: 'theme-color', content: '#11a8cd' }] // 移动浏览器主题颜色
   ],
   markdown: {
