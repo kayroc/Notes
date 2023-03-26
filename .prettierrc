@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "spaceBeforeFunctionParen": true,
+  "tslintIntegration": false,
+  "stylelintIntegration": false,
+  "eslintIntegration": false,
+  "trailingComma": "none",
+  "printWidth": 200
+}

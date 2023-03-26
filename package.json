@@ -1,0 +1,27 @@
+{
+  "homepage": "https://kayroc.github.io/notes",
+  "name": "notes",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "editFm": "node utils/editFrontmatter.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "inquirer": "^7.1.0",
+    "json2yaml": "^1.1.0",
+    "moment": "^2.25.3",
+    "prettier": "^2.8.4",
+    "vuepress": "^1.4.1",
+    "vuepress-plugin-demo-block": "^0.7.2",
+    "vuepress-plugin-one-click-copy": "^1.0.2",
+    "vuepress-plugin-reading-progress": "^1.0.10",
+    "vuepress-plugin-thirdparty-search": "^1.0.2",
+    "vuepress-plugin-zooming": "^1.1.7",
+    "vuepress-theme-vdoing": "^1.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
