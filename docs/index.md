@@ -21,5 +21,9 @@ article: false
   desc: 编程狮，随时随地学编程
   avatar: https://7n.w3cschool.cn/statics/images/favicon.ico
   link: https://www.w3cschool.cn/
+- name: 现代 JavaScript 教程
+  desc: 最新 JS 标准为基准的教程
+  avatar: https://zh.javascript.info/img/favicon/favicon.png
+  link: https://zh.javascript.info/
 ```
 :::
